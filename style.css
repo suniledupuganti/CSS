@@ -1,0 +1,79 @@
+.box{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #1de592;
+    font-family: sans-serif;
+    margin: 50px auto;
+    padding: 150px auto;
+    width: 400px;
+    height: 400px;
+    
+}
+
+.btn-ideas{
+    border: none;
+    padding: 12px;
+    background-color: white;
+    border-radius: 60px;
+    margin: 10px 50px;
+    font-weight: 700;
+}
+
+.heading{
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+
+.description{
+    margin: 10px 50px;
+    font-weight: 700;
+    font-size: 11px;
+}
+
+.box-profile{
+    width: 400px;
+    height: 300px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    font-family: sans-serif;
+    margin: 50px auto;
+    box-sizing: border-box;
+}
+
+.image1{
+    width: 54px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+
+.heading1{
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 50px;
+    font-weight: 100;
+}
+
+.description1{
+    margin: 20px 30px;
+    color: rgb(163, 160, 160);
+}
+
+.link{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 40px;
+    color: rgb(17, 207, 255);
+    padding: 50px auto;
+    font-weight: 550;
+}
+
+.separator{
+    color: rgb(0, 76, 143);
+}
